@@ -83,12 +83,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 At a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep-sonu&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-sonu&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+| 🎯 Metric | 📈 Value |
+|---|---|
+| 🏫 CGPA (ITER) | 9.1 / 10 |
+| 🧩 DSA Problems Solved | 400+ |
+| 🔬 Packets Analysed (DPI Engine) | 10,000+ |
+| 🗂️ Public Repositories | 6+ |
+| 🌐 Frontend Apps Built | 5+ |
+| 🏆 Hackathons & Simulations | 3 (ISRO, AWS, Accenture) |
+| 💼 Internships Completed | 2 (CodSoft, Forage) |
+
+**Top Languages**
+
+![Python](https://img.shields.io/badge/Python-Most%20Used-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Frequent-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Growing-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Proficient-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
