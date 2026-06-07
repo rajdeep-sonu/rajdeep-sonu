@@ -91,7 +91,7 @@
 | 🧩 DSA Problems Solved | 400+ |
 | 🔬 Packets Analysed (DPI Engine) | 10,000+ |
 | 🗂️ Public Repositories | 6+ |
-| 🌐 Frontend Apps Built | 5+ |
+| 🌐 Frontend Apps Built | 4+ |
 | 🏆 Hackathons & Simulations | 3 (ISRO, AWS, Accenture) |
 | 💼 Internships Completed | 2 (CodSoft, Forage) |
 
